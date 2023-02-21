@@ -2,8 +2,8 @@ body {
     height: 100vh;
     background-color: #E5E5E5;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 20px;
-    text-align: center;
+    font-size: 30px;
+
 }
 
 #content {
@@ -45,7 +45,7 @@ body {
 .four {
     grid-column: 3/5;
     grid-row: 1/7;
-    background-color: #8E3200;
+    background-color: #DAB88B;
 }
 
 .five {
@@ -91,7 +91,8 @@ body {
 .eleven {
     grid-column: 6/7;
     grid-row: 7/11;
-    background-color: #A64B2A;
+    background-color: #8E806A;
+
 }
 
 
